@@ -6,13 +6,15 @@
 	height: 200px;
 	width: 150px;
 	border-radius: 20px;
+	margin: 20px
 }
 p{
 	font-size: 12px;
+	margin: 20px;
 }
 div{
 	display: flex;
 	gap: 20px;
-	border
-	
+	background: lightcyan;
+	border-radius: 20px;
 }
