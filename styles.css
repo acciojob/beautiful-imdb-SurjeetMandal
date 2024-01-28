@@ -12,9 +12,10 @@ p{
 	font-size: 12px;
 	margin: 20px;
 }
-div{
+#main{
 	display: flex;
 	gap: 20px;
 	background: lightcyan;
-	border-radius: 20px;
+	border-radius: 30px;
+	box-shadow: 1px 1px 5px;
 }
