@@ -1,2 +1,18 @@
-
-/* Your CSS Code here. */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400&display=swap');
+*{
+	font-family: 'Poppins', sans-serif;
+}
+.moviePic{
+	height: 200px;
+	width: 150px;
+	border-radius: 20px;
+}
+p{
+	font-size: 12px;
+}
+div{
+	display: flex;
+	gap: 20px;
+	border
+	
+}
