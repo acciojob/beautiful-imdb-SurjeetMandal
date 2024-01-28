@@ -6,14 +6,18 @@
 	height: 200px;
 	width: 150px;
 	border-radius: 20px;
-	margin: 20px
+	margin: 20px;
+	opacity: 0.9;
 }
-p{
-	font-size: 12px;
+.movieDetail{
 	margin: 20px;
 }
 #main{
-	display: flex;
+	position: center;
+	top: 50%;
+	width: 500px;
+	text-align: center;
+	font-size: 12px;
 	gap: 20px;
 	background: lightcyan;
 	border-radius: 30px;
